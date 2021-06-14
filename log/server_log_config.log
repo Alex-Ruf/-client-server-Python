@@ -1,0 +1,23 @@
+2021-06-14 19:18:35,793 DEBUG server_log_config Старт сервера
+2021-06-14 19:18:35,798 INFO server_log_config Получение настроек сервера Namespace(addr='127.0.0.1', port=3456)
+2021-06-14 19:18:35,798 INFO server_log_config Сервер активирован ('127.0.0.1', 3456)
+2021-06-14 19:18:48,185 DEBUG server_log_config Старт сервера
+2021-06-14 19:18:48,190 INFO server_log_config Получение настроек сервера Namespace(addr='127.0.0.1', port=3456)
+2021-06-14 19:19:01,217 INFO server_log_config Подключение клиента C0deMaver1ck
+2021-06-14 19:19:01,217 INFO server_log_config Отправлено сообщение {'user': 'C0deMaver1ck', 'response': 200, 'alert': 'Необязательное сообщение/уведомление'}
+2021-06-14 19:19:01,218 INFO server_log_config Отключение от клиента C0deMaver1ck
+2021-06-14 19:19:19,366 INFO server_log_config Подключение клиента C0deMaver1ck
+2021-06-14 19:19:19,366 INFO server_log_config Отправлено сообщение {'user': 'C0deMaver1ck', 'response': 200, 'alert': 'Необязательное сообщение/уведомление'}
+2021-06-14 19:19:19,366 INFO server_log_config Отключение от клиента C0deMaver1ck
+2021-06-14 19:20:10,082 INFO server_log_config Подключение клиента C0deMaver1ck
+2021-06-14 19:20:10,082 INFO server_log_config Отправлено сообщение {'user': 'C0deMaver1ck', 'response': 200, 'alert': 'Необязательное сообщение/уведомление'}
+2021-06-14 19:20:10,083 INFO server_log_config Отключение от клиента C0deMaver1ck
+2021-06-14 19:20:45,936 DEBUG server_log_config Старт сервера
+2021-06-14 19:20:45,941 INFO server_log_config Получение настроек сервера Namespace(addr='127.0.0.1', port=3456)
+2021-06-14 19:20:45,941 INFO server_log_config Сервер активирован ('127.0.0.1', 3456)
+2021-06-14 19:21:36,864 DEBUG server_log_config Старт сервера
+2021-06-14 19:21:52,850 DEBUG server_log_config Старт сервера
+2021-06-14 19:21:52,855 INFO server_log_config Получение настроек сервера Namespace(addr='127.0.0.1', port=8000)
+2021-06-14 19:22:59,957 DEBUG server_log_config Старт сервера
+2021-06-14 19:22:59,962 INFO server_log_config Получение настроек сервера Namespace(addr='127.0.0.1', port=8000)
+2021-06-14 19:22:59,963 ERROR server_log_config [Errno 48] Address already in use
