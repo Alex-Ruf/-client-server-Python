@@ -1,0 +1,83 @@
+2021-06-14 17:10:22,088 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 17:11:59,413 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 17:12:56,612 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 17:18:28,846 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 17:41:00,395 INFO client_log_config info: Клиент <socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 65006), raddr=('127.0.0.1', 3456)> запущен
+2021-06-14 17:49:11,714 INFO client_log_config info: Клиент <socket.socket fd=3, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50647), raddr=('127.0.0.1', 3456)> запущен
+2021-06-14 17:53:42,794 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 18:00:34,585 INFO client_log_config [Errno 61] Connection refused
+2021-06-14 18:00:50,056 INFO client_log_config info: Клиент <socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 53468), raddr=('127.0.0.1', 3456)> запущен
+2021-06-14 18:14:38,949 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:14:38,950 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623683678.949483, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:14:44,072 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:14:44,072 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623683684.0723698, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:16:00,151 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:16:00,152 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623683760.151665, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:16:00,152 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:16:19,866 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:16:19,867 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623683779.866646, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:16:19,867 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:16:36,563 INFO client_log_config [Errno 61] Connection refused
+2021-06-14 18:22:16,032 INFO client_log_config [Errno 61] Connection refused
+2021-06-14 18:23:08,972 INFO client_log_config [Errno 61] Connection refused
+2021-06-14 18:23:45,144 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 18:24:16,327 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 18:24:48,035 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 18:24:54,619 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:24:54,620 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623684294.6199198, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:24:54,620 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:28:12,348 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:28:12,349 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623684492.3487868, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:28:12,349 ERROR client_log_config receive_message() missing 1 required positional argument: 's'
+2021-06-14 18:30:18,183 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:30:18,184 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623684618.183539, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:30:18,184 ERROR client_log_config receive_message() missing 1 required positional argument: 's'
+2021-06-14 18:30:29,809 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:30:29,809 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623684629.809124, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:30:29,809 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:56:31,047 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:56:31,048 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686191.0478132, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:56:31,048 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:58:55,296 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:58:55,297 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686335.2969768, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:58:55,297 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 18:59:51,637 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 18:59:51,638 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686391.638158, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 18:59:51,639 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:00:05,246 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 19:00:05,246 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686405.246363, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:00:05,247 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:00:57,844 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 19:00:57,845 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686457.844872, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:00:57,845 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:02:20,556 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 19:02:20,556 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686540.556399, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:02:20,557 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:03:39,126 INFO client_log_config Старт программы
+2021-06-14 19:03:39,133 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 19:03:39,134 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686619.133774, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:03:39,134 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:04:16,330 DEBUG client_log_config Старт программы
+2021-06-14 19:04:16,337 INFO client_log_config info: Клиент ('127.0.0.1', 3456) запущен
+2021-06-14 19:04:16,337 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623686656.3372931, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:04:16,338 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:06:57,648 DEBUG client_log_config Старт программы
+2021-06-14 19:06:57,656 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 19:17:49,158 DEBUG client_log_config Старт программы
+2021-06-14 19:17:49,164 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 19:18:28,028 DEBUG client_log_config Старт программы
+2021-06-14 19:18:28,035 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 19:18:40,440 DEBUG client_log_config Старт программы
+2021-06-14 19:18:40,446 ERROR client_log_config [Errno 61] Connection refused
+2021-06-14 19:19:01,208 DEBUG client_log_config Старт программы
+2021-06-14 19:19:01,216 INFO client_log_config info: Клиент подключился к серверу ('127.0.0.1', 3456) 
+2021-06-14 19:19:01,216 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623687541.216083, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:19:01,217 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:19:19,357 DEBUG client_log_config Старт программы
+2021-06-14 19:19:19,366 INFO client_log_config info: Клиент подключился к серверу ('127.0.0.1', 3456) 
+2021-06-14 19:19:19,367 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623687559.3665988, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:19:19,367 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-14 19:20:10,075 DEBUG client_log_config Старт программы
+2021-06-14 19:20:10,082 INFO client_log_config info: Клиент подключился к серверу ('127.0.0.1', 3456) 
+2021-06-14 19:20:10,083 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623687610.082475, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-14 19:20:10,083 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
