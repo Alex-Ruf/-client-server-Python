@@ -1,0 +1,16 @@
+2021-06-16 10:20:02,484 INFO client_log_config Запущена функция: main()
+2021-06-16 10:20:02,484 DEBUG client_log_config Старт программы
+2021-06-16 10:20:02,484 INFO client_log_config Запущена функция: init_socket()
+2021-06-16 10:20:02,489 INFO client_log_config info: Клиент подключился к серверу ('127.0.0.1', 3456) 
+2021-06-16 10:20:02,489 INFO client_log_config Запущена функция: send_message(<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51665), raddr=('127.0.0.1', 3456)>,)
+2021-06-16 10:20:02,491 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623828002.489943, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-16 10:20:02,491 INFO client_log_config Запущена функция: receive_message(<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51665), raddr=('127.0.0.1', 3456)>,)
+2021-06-16 10:20:02,491 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
+2021-06-16 10:27:24,705 INFO client_log_config Запущена функция: main()
+2021-06-16 10:27:24,705 DEBUG client_log_config Старт программы
+2021-06-16 10:27:24,706 INFO client_log_config Запущена функция: init_socket()
+2021-06-16 10:27:24,711 INFO client_log_config info: Клиент подключился к серверу ('127.0.0.1', 3456) 
+2021-06-16 10:27:24,711 INFO client_log_config Запущена функция: send_message(<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51702), raddr=('127.0.0.1', 3456)>,)
+2021-06-16 10:27:24,711 INFO client_log_config info: Клиент отправил сообщение: {'action': 'presence', 'time': 1623828444.711345, 'user': {'account_name': 'C0deMaver1ck', 'status': 'Yep, I am here!'}}
+2021-06-16 10:27:24,711 INFO client_log_config Запущена функция: receive_message(<socket.socket fd=4, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51702), raddr=('127.0.0.1', 3456)>,)
+2021-06-16 10:27:24,712 INFO client_log_config info: Клиент получил сообщение Сообщение от сервера: Пользователь-C0deMaver1ck, статус соединения 200
